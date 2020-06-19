@@ -1,0 +1,64 @@
+body{
+    font-family: Roboto,Light;
+    color: #212529;
+    text-align: left;
+}
+
+.h4{
+    text-align: left;  
+}
+
+.h1 h2 h3{
+    font-family:Roboto;
+    
+  }
+
+.bg-verde{
+    background: #28A745;
+    color: #FFFFFF;
+    text-align: center;
+}
+.imagenNavbar{
+    width: auto;
+    height: 30px;
+}
+
+.imagenCupon{
+    height: 50px;
+}
+
+.container{
+    padding-left: 1%;
+}
+
+.inputEnviar{
+    background: #F8F9FA;
+    border-color: #DDDDDD;
+    border-radius: 10%;
+    width: 33%;
+    height: 40%;
+    color: #212529;
+}
+
+.logo-black{
+    width: auto;
+    height: 25px;
+    padding: 1%;
+}
+
+.container-fluid{
+    text-align: center;
+    padding: 5%;
+}
+.sep{
+    margin-left: 30%;
+}
+.sep1{
+    margin-left: 8%;
+    color: #28A745;
+}
+
+.card-img-top{
+    width: 280px;
+    height: 220px;
+}
