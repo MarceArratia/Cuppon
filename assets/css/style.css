@@ -1,22 +1,29 @@
 body{
     font-family: Roboto,Light;
-    color: #212529;
-    text-align: left;
-}
-
-.h4{
-    text-align: left;  
-}
-
-.h1 h2 h3{
-    font-family:Roboto;
     
-  }
+}
+
+h5{
+   color:#212529 ; 
+}
+h6{
+    color: #707070;
+}
+
+p{
+    color: #707070;   
+}
+
+.container-fluid{
+    margin-left:2%;
+    margin-top: auto;
+}
 
 .bg-verde{
     background: #28A745;
     color: #FFFFFF;
     text-align: center;
+    margin-top: auto;
 }
 .imagenNavbar{
     width: auto;
@@ -29,13 +36,15 @@ body{
 
 .container{
     padding-left: 1%;
+
+
 }
 
 .inputEnviar{
     background: #F8F9FA;
     border-color: #DDDDDD;
     border-radius: 10%;
-    width: 33%;
+    width: 23%;
     height: 40%;
     color: #212529;
 }
@@ -46,19 +55,28 @@ body{
     padding: 1%;
 }
 
-.container-fluid{
-    text-align: center;
-    padding: 5%;
+.valor{
+    color: #707070;   
 }
+
+
 .sep{
-    margin-left: 30%;
+    margin-left: 20%;
+    margin-top: 11%;
 }
 .sep1{
-    margin-left: 8%;
+    margin-left: 5%;
     color: #28A745;
+    margin-top: 9%;
 }
 
 .card-img-top{
-    width: 280px;
-    height: 220px;
+    width: 100%;
+    height: auto;
+
+}
+
+.container-fluidFooter{
+    text-align: center;
+  
 }
